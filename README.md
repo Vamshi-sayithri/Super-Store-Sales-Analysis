@@ -25,11 +25,10 @@ Advanced
 
 ## Programming Language 
 
-Python
+SQL
 
-## Tools 
 
-Jupyter Notebook  
+## Tools   
 MS Excel  
 MS Power BI
 
